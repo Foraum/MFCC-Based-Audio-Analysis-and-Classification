@@ -1,7 +1,3 @@
-# Uncomment the following line if you do not have the Python module 'librosa' installed
-# !pip install librosa
-
-import os
 import numpy as np
 import pandas as pd
 import librosa
