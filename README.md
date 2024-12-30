@@ -43,8 +43,8 @@ Basic MFCCs, Delta, and Delta-Delta captured spectral and temporal dynamics but 
 
 | **File Name**       | **Description**                                                                                 |  
 |----------------------|-----------------------------------------------------------------------------------------------|  
-| `(A)Maincode.ipynb`     | Performs clustering of all 115 songs into six groups based on MFCC features and advanced metrics. |  
-| `(B)Reducdecode.ipynb`  | Re-clusters songs after removing Michael Jackson and National Anthem clusters for improved precision. |  
+| [(A)Maincode.ipynb]((A)Maincode.ipynb)   | Performs clustering of all 115 songs into six groups based on MFCC features and advanced metrics. |  
+| [(B)Reducdecode.ipynb]((B)Reducdecode.ipynb) | Re-clusters songs after removing Michael Jackson and National Anthem clusters for improved precision. |  
 
 
 ## Testing Methodology
